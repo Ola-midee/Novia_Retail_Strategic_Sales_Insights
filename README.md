@@ -24,7 +24,7 @@ Novia Retail is a Nigerian-based retailer specializing in premium outdoor and ad
 
 ## **Dashboard Overview**
 
-![Nova Sales Dashboard Overview](Novia dashboard.png)
+![Nova Sales Dashboard Overview](Novia_dashboard.png)
 
 ## **Key Business Questions**
 
